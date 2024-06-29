@@ -9,6 +9,10 @@
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZqOHU1a2tlMm85em14dHgzdjcydXM1Y2FocjFobjd1M3JpNGI0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpnOZrxjQ94KNzEcWF/giphy.gif" width ="25"><b> Projects</b>
 
+<p align="center">
+
+- <h3><strong><a href="https://github.com/Peddykia1/PathFinder">Path Finder  
+
 <!--
 **Peddykia1/Peddykia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
