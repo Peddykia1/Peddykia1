@@ -12,6 +12,10 @@
 <p align="center">
 
 - <h3><strong><a href="https://github.com/Peddykia1/PathFinder">Path Finder  
+- <h3><strong><a href="https://github.com/Peddykia1/MyLeague">MyLeague  
+- <h3><strong><a href="https://github.com/Peddykia1/Calculator">Calculator  
+
+
 
 <!--
 **Peddykia1/Peddykia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
